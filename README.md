@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Front+end+developer;I'm+a+competitive+programmer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Software+QA+Engineer" /></a>
 </p>
 
 <!--<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
@@ -14,12 +14,18 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+<h1 align="left">About Me:</h1>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+  🤔   Exploring new technologies and developing software solutions.
 
-- 📫 How to reach me **thisunsamaraskara@gmail.com**
+🎓   I’m currently learning at Sri Lanka Institute of Information Technology
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+🌱   Learning more about Web Development, Mobile Development and UX/UI Design.
+
+✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
+
+
+📫   How to reach me thisunsamarasekara@gmail.com.
 
 <br>
 
