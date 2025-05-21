@@ -1,44 +1,47 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Thisun Samarasekara</h1>
-<h3 align="center">Student at Sri Lanka Institute of Information Technology (SLIIT) 🌟.</h3>
+<h3 align="center">Fresh Graduate Student at Sri Lanka Institute of Information Technology (SLIIT) 🌟.</h3>
 
 <br>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=0e43a1&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+QA+Engineer;+I'm+a+Front+end+developer;I'm+a+competitive+programmer"/></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=0e43a1&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+QA+Engineer;+I'm+a+Frontend+developer;I'm+a+competitive+programmer"/></a>
 </p>
 
 <!--<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>-->
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h1 align="left">About Me:</h1>
-
-  🤔   Exploring new technologies and developing software solutions.
-
-🎓   I’m currently learning at Sri Lanka Institute of Information Technology
-
-🌱   Learning more about Web Development, Mobile Development and UX/UI Design.
-
-✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
+<p><img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"></p>
 
 
-📫   How to reach me thisunsamarasekara@gmail.com.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisunsamarasekara&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
+
+<a align="left">About Me:</a>
+
+🎓 Specialized in Software Development and Quality Assurance.
+
+🧪 Experienced in manual and automated testing of web and mobile applications
+
+💻 Skilled in Java, C++, JavaScript, HTML/CSS, and frameworks like React and Node.js
+
+🧰 Tools I use: Selenium WebDriver, Appium, Postman, TestLink, Visual Studio, Eclipse
+
+🔍 Strong knowledge of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC)
+
+🌱 Currently learning cloud computing and advanced QA automation
+
+📫   How to reach me thisunsamarasekara@gmail.com
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -84,7 +87,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
@@ -94,19 +97,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thisunsamarasekara&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="thisunsamarasekara" 
-    bg_color=#808080/></p>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thisunsamarasekara&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thisunsamarasekara&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisunsamarasekara&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="thisunsamarasekara" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisunsamarasekara&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="thisunsamarasekara" /></p>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisunsamarasekara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
